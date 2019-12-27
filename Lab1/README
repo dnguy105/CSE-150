@@ -1,0 +1,19 @@
+David Nguyen
+dnuy105@ucsc.edu
+dnguy105
+1538165 
+
+Lab1 Readme:
+DavidNguyen-lab1.pdf - this file contains a pdf of questions and answers 
+for the linux portion of prelab 1.
+
+DavidNguyen-script.sh - this file is a shell script that prints out the 
+even numbered lines of each file in the current directory including 
+this file itself 
+
+DavidNguyen-topo.py - this is a python script to launch Mininet with a 
+custom topology 
+
+README - this is a readme describing the contents of each file with name, 
+email, CruzID, and student ID number.
+

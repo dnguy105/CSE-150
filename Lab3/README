@@ -1,0 +1,15 @@
+David Nguyen
+dnguy105@ucsc.edu
+dnguy105
+1538165 
+
+Lab3 Readme:
+lab3.pdf - this file contains a pdf showing the outputs of the 3 commands 
+for lab3
+
+lab3controller.py - POX controller that creates a firewall that only accepts
+TCP and ARP packets and follows the specifications of the lab
+
+README - this is a readme describing the contents of each file with name, 
+email, CruzID, and student ID number.
+
